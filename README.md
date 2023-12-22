@@ -1,1 +1,1 @@
-# 100-Days-of-AI-ML
+# 30-Days-of-AI-ML
